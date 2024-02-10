@@ -1,0 +1,31 @@
+# Node.js
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# Editor files
+.vscode/
+.idea/
+
+# Dependency directories
+/dist/
+/vendor/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# User-specific files
+npm-debug.log
+yarn-error.log
+
+# Local Netlify folder
+.netlify
